@@ -1,0 +1,21 @@
+{
+    "global": {
+        "core:author": "Benjamin Menkuec <benjamin@menkuec.de>",
+        "core:datatype": "cf32_le",
+        "core:description": "",
+        "core:hw": "USRP B205mini",
+        "core:license": "https://creativecommons.org/licenses/by/4.0/",
+        "core:recorder": "GNU Radio 3.9",
+        "core:sample_rate": 3840000,
+        "core:sha512": "eb82dd813810821c3c59f5bbb745620e534faed71fe05c1b1d96a2d7d3f8590efdca771756d2e7ec98823c30e0208959e85542b04f9fd761db66b6debae98cd9",
+        "core:version": "1.0.1"
+    },
+    "captures": [
+        {
+            "core:datetime": "2022-04-09T11:09:33.123597",
+            "core:frequency": 806000000,
+            "core:sample_start": 0
+        }
+    ],
+    "annotations": []
+}
